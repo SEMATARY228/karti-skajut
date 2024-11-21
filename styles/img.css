@@ -1,0 +1,21 @@
+.content__figure{
+    width: calc(100% + 5vw);
+    margin: 7vw 0;
+    position: relative;
+    left: -5vw;
+}
+
+
+.content__picture{
+    width: inherit;
+    height: 100%;
+}
+
+.content__picture-caption{
+    text-align: center;
+    width: inherit;
+    border-bottom: 1px solid var(--text-color);
+    padding: 20px 0;
+
+}
+
