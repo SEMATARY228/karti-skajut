@@ -30,13 +30,13 @@
   left: -25px;
   bottom: 0;
   top: 4px;
-  content: url('/images/marker-light.svg');
+  content: url('../images/marker-light.svg');
   color: var(--text-color);
   width: 75px;
   height: 15px;
 }
 .theme_dark .content__list li::before{
-  content: url('/images/marker-dark.svg');
+  content: url('../images/marker-dark.svg');
 }
 
 .content__list li:not(:last-child) {
